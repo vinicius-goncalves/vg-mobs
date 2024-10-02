@@ -1,0 +1,6 @@
+name: vg-mobs
+api-version: '1.21.1'
+version: '1.0.0'
+main: br.vg.mobs.Main
+commands:
+   mobs:
